@@ -1,3 +1,5 @@
+ **_NOTE:_**  This project is best run on Eclipse. There is also no main method since the main goal of this project is to practice unit testing and write clean code. 
+
 ## What is RPN Calculator?
 RPN Calculator follow the **Reverse Polish Notation** in which the operator symbol is placed after the arguments being operated on. For example, regular algebraic expression (4 + 2 * 5) / (1 + 3 * 2)  would look like 4 2 5 * + 1 3 2 * + /  in reverse Polish expression. 
 
