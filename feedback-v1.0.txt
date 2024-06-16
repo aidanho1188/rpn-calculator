@@ -1,0 +1,5 @@
+8/10
+
+- Missing wordsize and features that limit calculations to the current wordsize
+- Should throw and catch more specific errors than RuntimeExcepion, ex. pushExceptionTest()
+- Could use more test cases around not enough operands on the stack and empty stack.

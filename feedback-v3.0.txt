@@ -1,0 +1,3 @@
+9/10
+
+- `RpnSignedWordSize` should use a formula to compute the wordsizes and not hardcoded or 'magic'numbers.

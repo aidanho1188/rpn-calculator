@@ -1,0 +1,10 @@
+9/10
+
+- Good work and a lot of nice added test cases!
+
+- It's not clear that you are handling overflow as designed. For example; if the wordsize is 8 and we try to add 250 + 250, what happens? Do we get overflow and a truncated number left on the stack?
+
+- Your execute() function and the use of the operation factory is a nice way of getting an easily extensible system. You are limiting where modifications need to be made while still allowing flexibility.
+
+- The code does not allow wordsizes that are not a multiple of 8
+
